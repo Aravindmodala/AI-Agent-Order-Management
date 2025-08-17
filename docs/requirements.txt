@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+openai
+anthropic
+faiss-cpu
+pinecone-client
+mlflow
+pydantic
