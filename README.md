@@ -21,7 +21,7 @@ The agent ingests **voice/text (EN + HI)**, extracts structured orders, validate
 - **2.5× faster** response time vs. manual process
 
 ## Architecture
-See `/docs/ai_agent_architecture.png`.
+See `ai_agent_architecture_wireframe.png`.
 
 ```mermaid
 flowchart LR
