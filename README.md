@@ -41,3 +41,7 @@ flowchart LR
   E --> H[Warehouse<br/>Snowflake/BigQuery]
   E --> I[Observability<br/>MLflow + Logs]
   H --> J[Media Gen (Optional)<br/>Midjourney/DALL·E]
+
+- Sample output: [`docs/sample_order.json`](docs/sample_order.json)
+- Evaluation snapshot: [`docs/metrics.md`](docs/metrics.md)
+
