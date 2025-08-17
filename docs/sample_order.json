@@ -1,0 +1,8 @@
+{
+  "text": "2 Combiflam ke patte kal subah bhej do",
+  "detected_lang": "hi",
+  "entities": { "items":[{"name":"Combiflam","sku":"COMBIFLAM-20","qty":2}], "delivery_date":"2025-08-18" },
+  "verified": true,
+  "rag_sources": ["catalog/combiflam.md", "pricing/2025-08.csv"],
+  "actions": [{"type":"sheets.append","sheet":"Orders","row_id":"ORD-2025-0817-001"}]
+}
